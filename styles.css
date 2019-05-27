@@ -1,21 +1,21 @@
 .first-box-container {
   position: relative;
-  width: 200px;
+  width: 20px;
   height: 100px;
   background-color: yellow;
 }
 
 .second-box-container {
   position: relative;
-  width: 200px;
+  width: 20px;
   height: 100px;
-  left: 250px;
+  left: 25px;
   background-color: red;
 }
 
 .third-box-container {
   position: relative;
-  width: 200px;
+  width: 20px;
   height: 100px;
   background-color: green;
 }
