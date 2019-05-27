@@ -10,26 +10,31 @@
 }
 
 .first-box-container {
+  display: inline-block;
   position: relative;
   width: 200px;
   height: 100px;
+  padding: 5px;
   background-color: red;
   overflow: auto;
 }
 
 .second-box-container {
+  display: inline-block;
   position: relative;
   width: 200px;
   height: 100px;
-  left: 250px;
+  padding: 5px;
   background-color: yellow;
   overflow: auto;
 }
 
 .third-box-container {
+  display: inline-block;
   position: relative;
   width: 200px;
   height: 100px;
+  padding: 5px;
   background-color: green;
   overflow: auto;
 }
