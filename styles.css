@@ -21,7 +21,6 @@
   position: relative;
   width: 200px;
   height: 100px;
-  left: 250px;
   background-color: red;
   overflow: hidden;
 }
