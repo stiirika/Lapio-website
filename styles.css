@@ -14,7 +14,7 @@
   width: 200px;
   height: 100px;
   background-color: red;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .second-box-container {
@@ -22,7 +22,7 @@
   width: 200px;
   height: 100px;
   background-color: yellow;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .third-box-container {
@@ -30,7 +30,7 @@
   width: 200px;
   height: 100px;
   background-color: green;
-  overflow: hidden;
+  overflow: auto;
 }
 
 
