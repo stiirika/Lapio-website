@@ -1,8 +1,20 @@
+
+.container {
+  float: left;
+  width: 200px;
+  position: relative;
+}
+
+.container div {
+  float: left;
+}
+
 .first-box-container {
   position: relative;
   width: 200px;
   height: 100px;
   background-color: yellow;
+  overflow: hidden;
 }
 
 .second-box-container {
@@ -11,6 +23,7 @@
   height: 100px;
   left: 250px;
   background-color: red;
+  overflow: hidden;
 }
 
 .third-box-container {
@@ -18,4 +31,8 @@
   width: 200px;
   height: 100px;
   background-color: green;
+  overflow: hidden;
 }
+
+
+
