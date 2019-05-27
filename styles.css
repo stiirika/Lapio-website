@@ -13,7 +13,7 @@
   position: relative;
   width: 200px;
   height: 100px;
-  background-color: yellow;
+  background-color: red;
   overflow: hidden;
 }
 
@@ -21,7 +21,7 @@
   position: relative;
   width: 200px;
   height: 100px;
-  background-color: red;
+  background-color: yellow;
   overflow: hidden;
 }
 
