@@ -12,6 +12,7 @@
   border-color: green;
   border-width: 5px;
   text-transform: uppercase;
+  text-aling: center;
 }
 
 .second-box-container {
@@ -26,6 +27,7 @@
   border-color: red;
   border-width: 5px;
   text-transform: uppercase;
+  text-aling: center;
 }
 
 .third-box-container {
@@ -40,6 +42,7 @@
   border-color: yellow;
   border-width: 5px;
   text-transform: uppercase;
+  text-aling: center;
 }
 
 
