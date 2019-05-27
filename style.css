@@ -1,8 +1,17 @@
 
+
 .otsikko {
   color: yellow;
 }
 
-* {
+.leipateksti {
+  color: green;
+}
+
+#punainen-kohta {
   color: red;
+}
+
+* {
+  color: pink;
 }
