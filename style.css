@@ -1,5 +1,8 @@
-p { background-color: red; }
 
 .otsikko {
   color: yellow;
+}
+
+* {
+  color: red;
 }
