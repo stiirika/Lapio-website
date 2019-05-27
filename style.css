@@ -4,11 +4,11 @@
   color: yellow;
 }
 
-p#normaali {
-  color: green;
+.leipateksti {
+  color: blue;
 }
 
-p#punainen-kohta {
+#punainen-kohta {
   color: red;
 }
 
