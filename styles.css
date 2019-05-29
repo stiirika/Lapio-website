@@ -45,5 +45,16 @@
   text-aling: center;
 }
 
-
+.ensimmainen {
+  background-color: #fff;
+  position: absolute;
+}
+.toinen {
+  background-color: #fff;
+  position: static;
+}
+.kolmas {
+  background-color: #fff;
+  position: static;
+}
 
